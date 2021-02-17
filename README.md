@@ -1,6 +1,6 @@
 # StumbleUpon-Classification
 Tha aim is to identify whether a given website is ephemeral or evergreen
-Steps - 
+### Steps - 
 * Create a function
 * in this function, first data set is loaded for both train and test
 * Next if we check the data boilerplate is the usable column amongst rest , so we consider for 'boilerplate' column for both train and test separately
