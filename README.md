@@ -13,4 +13,5 @@ Steps -
 * Further I have calculated the Cross validation score to evaluate the model's performance
 * Then finally the train data is fitted and then the model is used to predict on test data
 * At the last, classification report is computed which describes the precision, recall and f1 score.
-Classification Report - 
+
+# Classification Report - ![Screen Shot 2021-02-17 at 6 03 18 PM](https://user-images.githubusercontent.com/44721225/108205149-aaae4b80-714a-11eb-9eab-0eb937c889e8.png)
